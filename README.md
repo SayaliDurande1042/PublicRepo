@@ -1,3 +1,3 @@
 # PublicRepo
 For Training
-This is a Readme file
+This is a Read me file
